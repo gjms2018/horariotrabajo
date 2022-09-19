@@ -1,0 +1,6 @@
+"id"	"reference"	"idno"	"name"	"email"	"role_id"	"acc_type"	"status"	"password"	"remember_token"	"created_at"	"updated_at"
+"2"	"2"	"001133"	"DEMO, EMPLOYEE"	"admin@mundialcode.net"	"2"	"1"	"1"	"$2y$10$.zKb0b0vFKVhlFcokNNgo.A2htTOhR3OpGBBIKOx2ViAH30fQeJsu"	"0yuWU6j0YQozXFcGCi36Qec4A2ThCxeMg6f2DA6K8sUBdYIEXQLk53JG5VE2"	"2018-12-21 05:20:18"	"2018-12-21 05:20:18"
+"1"	"1"	"001122"	"DEMO, MANAGER"	"admin@mundialcode.com"	"1"	"2"	"1"	"$2y$10$.zKb0b0vFKVhlFcokNNgo.A2htTOhR3OpGBBIKOx2ViAH30fQeJsu"	"2GMlLSw6VDZynpmUDHgAQgjeTtHSL2ifaBubqrZI7nEcMGeClHwBnni8LGQX"	"2018-10-31 12:10:04"	"2018-10-31 12:10:04"
+
+
+en los dos casos el password es 123456
